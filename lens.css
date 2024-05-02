@@ -92,7 +92,7 @@
         margin-left:5px; /* Adjust the spacing */
 }
 
-
+/* third navbar */
 .tnav{
     display:flex;
     font-family: LKFuturaStd-Medium,Arial,sans-serif;
@@ -126,6 +126,7 @@
     width:80px;
 }
 
+/* details */
 .details{
     display: flex;
     justify-content: space-between;
@@ -164,6 +165,7 @@
     color: grey;
 }
 
+/* slider */
 .slider {
     position: relative;
     width:100%;
@@ -201,12 +203,14 @@
     width: 100%;
     height: auto;
   }
-  
+
+/* banner */
  .banner{
     width:100%;
     margin-top:-30px;
  }
- 
+
+/* cart */
 .cart{
     display:flex;
     justify-content:space-around;
@@ -458,7 +462,7 @@ span{
     cursor: pointer;
 }
 
-
+/* types */
 .types{
     margin-top: 2%;
     padding-left:5%;
@@ -565,7 +569,7 @@ span{
     cursor: pointer;
 }
 
-
+/* end */
 .end{
     background-color: hwb(43 48% 1%);
     width: 100%;
@@ -586,7 +590,7 @@ span{
     margin-left: 13%;
 }
 
-
+/* footer */
 .footer{
     background-color: rgb(9, 9, 94);
     color: white;
